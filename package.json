@@ -1,0 +1,8 @@
+{
+  "name": "demo",
+  "main": "index.html",
+  "window":{
+	  	"toolbar":true,
+	  	"frame":true
+  }
+}
